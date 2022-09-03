@@ -1,0 +1,204 @@
+{"id":1000,"log_time":"2022/08/17 - 23:19:53","name":"马神之路","obj":"我是debug日志"}
+{"log_time":"2022/08/17 - 23:19:53","obj":"我是info日志"}
+{"log_time":"2022/08/17 - 23:19:53","obj":"我是error日志"}
+{"id":1000,"log_level":0,"log_time":"2022/08/17 - 23:22:28","name":"马神之路","obj":"我是debug日志"}
+{"log_level":1,"log_time":"2022/08/17 - 23:22:28","obj":"我是info日志"}
+{"log_level":2,"log_time":"2022/08/17 - 23:22:28","obj":"我是error日志"}
+{"id":1000,"log_level":"DEBUG","log_time":"2022/08/18 - 09:29:57","name":"马神之路","obj":"我是debug日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:29:57","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:29:57","obj":"我是error日志"}
+{"id":1000,"log_level":"DEBUG","log_time":"2022/08/18 - 09:31:28","name":"马神之路","obj":"我是debug日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:31:28","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:31:28","obj":"我是error日志"}
+{"id":1000,"log_level":"DEBUG","log_time":"2022/08/18 - 09:31:30","name":"马神之路","obj":"我是debug日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:31:30","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:31:30","obj":"我是error日志"}
+{"id":1000,"log_level":"DEBUG","log_time":"2022/08/18 - 09:31:31","name":"马神之路","obj":"我是debug日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:31:31","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:31:31","obj":"我是error日志"}
+{"id":1000,"log_level":"DEBUG","log_time":"2022/08/18 - 09:31:32","name":"马神之路","obj":"我是debug日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:31:32","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:31:32","obj":"我是error日志"}
+{"id":1000,"log_level":"DEBUG","log_time":"2022/08/18 - 09:31:35","name":"马神之路","obj":"我是debug日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:31:35","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:31:35","obj":"我是error日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:32:26","obj":"我是error日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:32:31","obj":"我是error日志"}
+{"id":1000,"log_level":"DEBUG","log_time":"2022/08/18 - 09:32:51","name":"马神之路","obj":"我是debug日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:32:51","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:32:51","obj":"我是error日志"}
+{"id":1000,"log_level":"DEBUG","log_time":"2022/08/18 - 09:32:53","name":"马神之路","obj":"我是debug日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:32:53","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:32:53","obj":"我是error日志"}
+{"id":1000,"log_level":"DEBUG","log_time":"2022/08/18 - 09:32:54","name":"马神之路","obj":"我是debug日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:32:54","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:32:54","obj":"我是error日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:34:40","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:34:40","obj":"我是error日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:34:43","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:34:43","obj":"我是error日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:34:44","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:34:44","obj":"我是error日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:34:45","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:34:45","obj":"我是error日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:35:54","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:35:54","obj":"我是error日志"}
+{"id":1000,"log_level":"DEBUG","log_time":"2022/08/18 - 09:37:05","name":"马神之路","obj":"我是debug日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:37:05","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:37:05","obj":"我是error日志"}
+{"id":1000,"log_level":"DEBUG","log_time":"2022/08/18 - 09:38:08","name":"马神之路","obj":"我是debug日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:38:08","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:38:08","obj":"我是error日志"}
+{"id":1000,"log_level":"DEBUG","log_time":"2022/08/18 - 09:38:08","name":"马神之路","obj":"我是debug日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:38:08","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:38:08","obj":"我是error日志"}
+{"id":1000,"log_level":"DEBUG","log_time":"2022/08/18 - 09:38:09","name":"马神之路","obj":"我是debug日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:38:09","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:38:09","obj":"我是error日志"}
+{"id":1000,"log_level":"DEBUG","log_time":"2022/08/18 - 09:38:09","name":"马神之路","obj":"我是debug日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:38:09","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:38:09","obj":"我是error日志"}
+{"id":1000,"log_level":"DEBUG","log_time":"2022/08/18 - 09:38:10","name":"马神之路","obj":"我是debug日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:38:10","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:38:10","obj":"我是error日志"}
+{"id":1000,"log_level":"DEBUG","log_time":"2022/08/18 - 09:38:10","name":"马神之路","obj":"我是debug日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:38:10","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:38:10","obj":"我是error日志"}
+{"id":1000,"log_level":"DEBUG","log_time":"2022/08/18 - 09:38:10","name":"马神之路","obj":"我是debug日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:38:10","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:38:10","obj":"我是error日志"}
+{"id":1000,"log_level":"DEBUG","log_time":"2022/08/18 - 09:38:15","name":"马神之路","obj":"我是debug日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:38:15","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:38:15","obj":"我是error日志"}
+{"id":1000,"log_level":"DEBUG","log_time":"2022/08/18 - 09:38:15","name":"马神之路","obj":"我是debug日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:38:15","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:38:15","obj":"我是error日志"}
+{"id":1000,"log_level":"DEBUG","log_time":"2022/08/18 - 09:38:24","name":"马神之路","obj":"我是debug日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:38:24","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:38:24","obj":"我是error日志"}
+{"id":1000,"log_level":"DEBUG","log_time":"2022/08/18 - 09:38:25","name":"马神之路","obj":"我是debug日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:38:25","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:38:25","obj":"我是error日志"}
+{"id":1000,"log_level":"DEBUG","log_time":"2022/08/18 - 09:38:58","name":"马神之路","obj":"我是debug日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:38:58","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:38:58","obj":"我是error日志"}
+{"id":1000,"log_level":"DEBUG","log_time":"2022/08/18 - 09:39:00","name":"马神之路","obj":"我是debug日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:39:00","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:39:00","obj":"我是error日志"}
+{"id":1000,"log_level":"DEBUG","log_time":"2022/08/18 - 09:39:04","name":"马神之路","obj":"我是debug日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:39:04","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:39:04","obj":"我是error日志"}
+{"id":1000,"log_level":"DEBUG","log_time":"2022/08/18 - 09:39:05","name":"马神之路","obj":"我是debug日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:39:05","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:39:05","obj":"我是error日志"}
+{"id":1000,"log_level":"DEBUG","log_time":"2022/08/18 - 09:39:06","name":"马神之路","obj":"我是debug日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:39:06","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:39:06","obj":"我是error日志"}
+{"id":1000,"log_level":"DEBUG","log_time":"2022/08/18 - 09:39:13","name":"马神之路","obj":"我是debug日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:39:13","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:39:13","obj":"我是error日志"}
+{"id":1000,"log_level":"DEBUG","log_time":"2022/08/18 - 09:43:39","name":"马神之路","obj":"我是debug日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:43:39","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 09:43:39","obj":"我是error日志"}
+{"id":1000,"log_level":"DEBUG","log_time":"2022/08/18 - 09:45:54","name":"马神之路","obj":"我是debug日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 09:45:54","obj":"我是info日志"}
+{"id":1000,"log_level":"DEBUG","log_time":"2022/08/18 - 10:18:44","name":"马神之路","obj":"我是debug日志"}
+{"log_level":"INFO","log_time":"2022/08/18 - 10:18:44","obj":"我是info日志"}
+{"log_level":"ERROR","log_time":"2022/08/18 - 10:20:08","obj":"invalid memory address or nil pointer dereference"}
+[33m [msgo] [0m [34m2022/08/18 - 10:22:35[0m | level= [31m ERROR [0m | msg=[31m "invalid memory address or nil pointer dereference" [0m | fields=""
+[33m [msgo] [0m [34m2022/08/18 - 10:27:25[0m | level= [31m ERROR [0m | msg=[31m "invalid memory address or nil pointer dereference" [0m | fields=""
+[33m [msgo] [0m [34m2022/08/18 - 10:31:32[0m | level= [31m ERROR [0m [31m 
+ Error Cause By: "invalid memory address or nil pointer dereference" [0m | fields=""
+[33m [msgo] [0m [34m2022/08/18 - 10:33:49[0m | level= [31m ERROR [0m [31m 
+ Error Cause By: "invalid memory address or nil pointer dereference" [0m | fields=""
+[33m [msgo] [0m [34m2022/08/18 - 11:01:14[0m | level= [31m ERROR [0m [31m 
+ Error Cause By: "invalid memory address or nil pointer dereference" [0m | fields=""
+[33m [msgo] [0m [34m2022/08/18 - 11:02:27[0m | level= [31m ERROR [0m [31m 
+ Error Cause By: "invalid memory address or nil pointer dereference" [0m | fields=""
+[33m [msgo] [0m [34m2022/08/18 - 11:13:14[0m | level= [31m ERROR [0m [31m 
+ Error Cause By: runtime error: invalid memory address or nil pointer dereference
+
+	C:/Program Files/Go/src/runtime/panic.go:838
+	C:/Program Files/Go/src/runtime/signal_windows.go:266
+	C:/Program Files/Go/src/runtime/panic.go:219
+	D:/msgo/blog/main.go:238
+	D:/msgo/frame/log.go:125
+	D:/msgo/frame/recovery.go:34
+	D:/msgo/blog/main.go:46
+	D:/msgo/frame/msframe.go:56
+	D:/msgo/frame/msframe.go:200
+	D:/msgo/frame/msframe.go:219
+	C:/Program Files/Go/src/net/http/server.go:2463
+	C:/Program Files/Go/src/net/http/server.go:2917
+	C:/Program Files/Go/src/net/http/server.go:1967
+	C:/Program Files/Go/src/runtime/asm_amd64.s:1572 [0m | fields=""
+[33m [msgo] [0m [34m2022/08/18 - 14:16:55[0m | level= [31m ERROR [0m [31m 
+ Error Cause By: runtime error: invalid memory address or nil pointer dereference
+
+	C:/Program Files/Go/src/runtime/panic.go:838
+	C:/Program Files/Go/src/runtime/signal_windows.go:266
+	C:/Program Files/Go/src/runtime/panic.go:219
+	D:/msgo/blog/main.go:239
+	D:/msgo/frame/log.go:125
+	D:/msgo/frame/recovery.go:45
+	D:/msgo/blog/main.go:47
+	D:/msgo/frame/msframe.go:56
+	D:/msgo/frame/msframe.go:200
+	D:/msgo/frame/msframe.go:219
+	C:/Program Files/Go/src/net/http/server.go:2463
+	C:/Program Files/Go/src/net/http/server.go:2917
+	C:/Program Files/Go/src/net/http/server.go:1967
+	C:/Program Files/Go/src/runtime/asm_amd64.s:1572 [0m | fields=""
+[33m [msgo] [0m [34m2022/08/18 - 14:17:11[0m | level= [31m ERROR [0m [31m 
+ Error Cause By: sda
+
+	C:/Program Files/Go/src/runtime/panic.go:838
+	D:/msgo/blog/main.go:238
+	D:/msgo/frame/jperror/errors.go:22
+	D:/msgo/frame/jperror/errors.go:16
+	D:/msgo/blog/main.go:264
+	D:/msgo/frame/log.go:125
+	D:/msgo/frame/recovery.go:45
+	D:/msgo/blog/main.go:47
+	D:/msgo/frame/msframe.go:56
+	D:/msgo/frame/msframe.go:200
+	D:/msgo/frame/msframe.go:219
+	C:/Program Files/Go/src/net/http/server.go:2463
+	C:/Program Files/Go/src/net/http/server.go:2917
+	C:/Program Files/Go/src/net/http/server.go:1967
+	C:/Program Files/Go/src/runtime/asm_amd64.s:1572 [0m | fields=""
+[33m [msgo] [0m [34m2022/08/18 - 14:20:29[0m | level= [31m ERROR [0m [31m 
+ Error Cause By: sda
+
+	C:/Program Files/Go/src/runtime/panic.go:838
+	D:/msgo/blog/main.go:238
+	D:/msgo/frame/jperror/errors.go:22
+	D:/msgo/frame/jperror/errors.go:16
+	D:/msgo/blog/main.go:264
+	D:/msgo/frame/log.go:125
+	D:/msgo/frame/recovery.go:45
+	D:/msgo/blog/main.go:47
+	D:/msgo/frame/msframe.go:56
+	D:/msgo/frame/msframe.go:200
+	D:/msgo/frame/msframe.go:219
+	C:/Program Files/Go/src/net/http/server.go:2463
+	C:/Program Files/Go/src/net/http/server.go:2917
+	C:/Program Files/Go/src/net/http/server.go:1967
+	C:/Program Files/Go/src/runtime/asm_amd64.s:1572 [0m | fields=""
+[33m [msgo] [0m [34m2022/08/19 - 15:20:00[0m | level= [31m ERROR [0m [31m 
+ Error Cause By: sda
+
+	C:/Program Files/Go/src/runtime/panic.go:838
+	D:/msgo/blog/main.go:241
+	D:/msgo/frame/jperror/errors.go:22
+	D:/msgo/frame/jperror/errors.go:16
+	D:/msgo/blog/main.go:303
+	D:/msgo/frame/log.go:125
+	D:/msgo/frame/recovery.go:45
+	D:/msgo/blog/main.go:50
+	D:/msgo/frame/msframe.go:56
+	D:/msgo/frame/msframe.go:200
+	D:/msgo/frame/msframe.go:219
+	C:/Program Files/Go/src/net/http/server.go:2917
+	C:/Program Files/Go/src/net/http/server.go:1967
+	C:/Program Files/Go/src/runtime/asm_amd64.s:1572 [0m | fields=""

@@ -1,0 +1,12 @@
+[log]
+path="./log"
+[template]
+pattern="tpl/*.html"
+[db]
+mysql.username=""
+mysql.password=""
+mysql.url=""
+[pool]
+cap=10
+[template]
+pattern="./tpl/*.html"
